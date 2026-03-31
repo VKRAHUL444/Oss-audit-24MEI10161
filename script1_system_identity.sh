@@ -1,9 +1,9 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Rajkumar S | Course: Open Source Software
+# Author: Rahul Gandhi V | Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Rajkumar S"
+STUDENT_NAME="Rahul Gandhi V"
 SOFTWARE_CHOICE="VLC Media Player"
 
 # --- System info ---

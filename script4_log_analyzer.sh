@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Rajkumar S (24BCE10447) | Course: Open Source Software
+# Author: Rahul Gandhi V (24MEI10161)| Course: Open Source Software
 
 LOGFILE=$1
 KEYWORD=${2:-"error"}   # Default keyword = error
